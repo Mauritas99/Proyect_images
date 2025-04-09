@@ -1,2 +1,2 @@
-# Proyect_images
-Folder with some proyect pictures.
+<h2>Repositorio IMG´s</h2>
+<p>Carpeta con imagenes para proyectos.</p>
